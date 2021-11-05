@@ -1,0 +1,256 @@
+state,subRegion,year,occupations,incomeMale,incomeFemale
+Alabama,East South Central,2017,"Management, business, science, and arts",64524,42451
+Alabama,East South Central,2017,"Natural resources, construction, and maintenance occupations",37278,28176
+Alabama,East South Central,2017,"Production, transportation, and material moving occupations",28176,22577
+Alabama,East South Central,2017,Sales and office occupations,32380,23331
+Alabama,East South Central,2017,Service occupations,22167,15573
+Alaska,Pacific,2017,"Management, business, science, and arts",70887,52379
+Alaska,Pacific,2017,"Natural resources, construction, and maintenance occupations",55129,32917
+Alaska,Pacific,2017,"Production, transportation, and material moving occupations",32917,25906
+Alaska,Pacific,2017,Sales and office occupations,35514,30408
+Alaska,Pacific,2017,Service occupations,28491,21823
+Arizona,Mountain,2017,"Management, business, science, and arts",65854,46329
+Arizona,Mountain,2017,"Natural resources, construction, and maintenance occupations",35283,28397
+Arizona,Mountain,2017,"Production, transportation, and material moving occupations",28397,21477
+Arizona,Mountain,2017,Sales and office occupations,34785,28303
+Arizona,Mountain,2017,Service occupations,22058,17974
+Arkansas,West South Central,2017,"Management, business, science, and arts",57464,40896
+Arkansas,West South Central,2017,"Natural resources, construction, and maintenance occupations",34645,26464
+Arkansas,West South Central,2017,"Production, transportation, and material moving occupations",26464,25386
+Arkansas,West South Central,2017,Sales and office occupations,35111,25122
+Arkansas,West South Central,2017,Service occupations,20969,15895
+California,Pacific,2017,"Management, business, science, and arts",81105,57291
+California,Pacific,2017,"Natural resources, construction, and maintenance occupations",36342,17974
+California,Pacific,2017,"Production, transportation, and material moving occupations",17974,22171
+California,Pacific,2017,Sales and office occupations,36314,30472
+California,Pacific,2017,Service occupations,25103,18594
+Colorado,Mountain,2017,"Management, business, science, and arts",72214,50053
+Colorado,Mountain,2017,"Natural resources, construction, and maintenance occupations",40133,25782
+Colorado,Mountain,2017,"Production, transportation, and material moving occupations",25782,24691
+Colorado,Mountain,2017,Sales and office occupations,39422,30442
+Colorado,Mountain,2017,Service occupations,23376,18597
+Connecticut,New England,2017,"Management, business, science, and arts",83633,59552
+Connecticut,New England,2017,"Natural resources, construction, and maintenance occupations",46050,33534
+Connecticut,New England,2017,"Production, transportation, and material moving occupations",33534,27250
+Connecticut,New England,2017,Sales and office occupations,41965,31993
+Connecticut,New England,2017,Service occupations,30634,20159
+Delaware,South Atlantic,2017,"Management, business, science, and arts",70209,56548
+Delaware,South Atlantic,2017,"Natural resources, construction, and maintenance occupations",42233,30640
+Delaware,South Atlantic,2017,"Production, transportation, and material moving occupations",30640,26141
+Delaware,South Atlantic,2017,Sales and office occupations,33809,28840
+Delaware,South Atlantic,2017,Service occupations,26579,18846
+District of Columbia,South Atlantic,2017,"Management, business, science, and arts",83953,71196
+District of Columbia,South Atlantic,2017,"Natural resources, construction, and maintenance occupations",31736,37500
+District of Columbia,South Atlantic,2017,"Production, transportation, and material moving occupations",37500,23768
+District of Columbia,South Atlantic,2017,Sales and office occupations,40943,41105
+District of Columbia,South Atlantic,2017,Service occupations,30610,25132
+Florida,South Atlantic,2017,"Management, business, science, and arts",61129,43377
+Florida,South Atlantic,2017,"Natural resources, construction, and maintenance occupations",31646,21406
+Florida,South Atlantic,2017,"Production, transportation, and material moving occupations",21406,21511
+Florida,South Atlantic,2017,Sales and office occupations,31783,26084
+Florida,South Atlantic,2017,Service occupations,23401,18444
+Georgia,South Atlantic,2017,"Management, business, science, and arts",70019,47844
+Georgia,South Atlantic,2017,"Natural resources, construction, and maintenance occupations",34976,22561
+Georgia,South Atlantic,2017,"Production, transportation, and material moving occupations",22561,23232
+Georgia,South Atlantic,2017,Sales and office occupations,37300,26666
+Georgia,South Atlantic,2017,Service occupations,22321,16335
+Hawaii,Pacific,2017,"Management, business, science, and arts",65251,50804
+Hawaii,Pacific,2017,"Natural resources, construction, and maintenance occupations",50356,27720
+Hawaii,Pacific,2017,"Production, transportation, and material moving occupations",27720,28430
+Hawaii,Pacific,2017,Sales and office occupations,37709,31597
+Hawaii,Pacific,2017,Service occupations,31971,24793
+Idaho,Mountain,2017,"Management, business, science, and arts",60437,35691
+Idaho,Mountain,2017,"Natural resources, construction, and maintenance occupations",33428,17345
+Idaho,Mountain,2017,"Production, transportation, and material moving occupations",17345,17247
+Idaho,Mountain,2017,Sales and office occupations,35133,22491
+Idaho,Mountain,2017,Service occupations,20891,13402
+Illinois,East North Central,2017,"Management, business, science, and arts",74824,51673
+Illinois,East North Central,2017,"Natural resources, construction, and maintenance occupations",43652,31327
+Illinois,East North Central,2017,"Production, transportation, and material moving occupations",31327,22854
+Illinois,East North Central,2017,Sales and office occupations,41290,29085
+Illinois,East North Central,2017,Service occupations,24749,17138
+Indiana,East North Central,2017,"Management, business, science, and arts",65204,42838
+Indiana,East North Central,2017,"Natural resources, construction, and maintenance occupations",41389,29860
+Indiana,East North Central,2017,"Production, transportation, and material moving occupations",29860,26268
+Indiana,East North Central,2017,Sales and office occupations,37416,26487
+Indiana,East North Central,2017,Service occupations,21124,15487
+Iowa,West North Central,2017,"Management, business, science, and arts",64429,46535
+Iowa,West North Central,2017,"Natural resources, construction, and maintenance occupations",41490,20195
+Iowa,West North Central,2017,"Production, transportation, and material moving occupations",20195,27970
+Iowa,West North Central,2017,Sales and office occupations,40852,27103
+Iowa,West North Central,2017,Service occupations,21604,15989
+Kansas,West North Central,2017,"Management, business, science, and arts",63697,42425
+Kansas,West North Central,2017,"Natural resources, construction, and maintenance occupations",40105,25239
+Kansas,West North Central,2017,"Production, transportation, and material moving occupations",25239,25139
+Kansas,West North Central,2017,Sales and office occupations,36259,26045
+Kansas,West North Central,2017,Service occupations,21952,15473
+Kentucky,East South Central,2017,"Management, business, science, and arts",61033,43394
+Kentucky,East South Central,2017,"Natural resources, construction, and maintenance occupations",40100,31001
+Kentucky,East South Central,2017,"Production, transportation, and material moving occupations",31001,24881
+Kentucky,East South Central,2017,Sales and office occupations,33515,24640
+Kentucky,East South Central,2017,Service occupations,19787,16084
+Louisiana,West South Central,2017,"Management, business, science, and arts",64497,42818
+Louisiana,West South Central,2017,"Natural resources, construction, and maintenance occupations",37515,24938
+Louisiana,West South Central,2017,"Production, transportation, and material moving occupations",24938,21780
+Louisiana,West South Central,2017,Sales and office occupations,37262,23757
+Louisiana,West South Central,2017,Service occupations,22602,15158
+Maine,New England,2017,"Management, business, science, and arts",60628,45605
+Maine,New England,2017,"Natural resources, construction, and maintenance occupations",38501,27739
+Maine,New England,2017,"Production, transportation, and material moving occupations",27739,19962
+Maine,New England,2017,Sales and office occupations,35226,27912
+Maine,New England,2017,Service occupations,25249,16902
+Maryland,South Atlantic,2017,"Management, business, science, and arts",82071,61636
+Maryland,South Atlantic,2017,"Natural resources, construction, and maintenance occupations",42045,33941
+Maryland,South Atlantic,2017,"Production, transportation, and material moving occupations",33941,23320
+Maryland,South Atlantic,2017,Sales and office occupations,40385,31983
+Maryland,South Atlantic,2017,Service occupations,28507,20629
+Massachusetts,New England,2017,"Management, business, science, and arts",82359,60531
+Massachusetts,New England,2017,"Natural resources, construction, and maintenance occupations",47558,34217
+Massachusetts,New England,2017,"Production, transportation, and material moving occupations",34217,25446
+Massachusetts,New England,2017,Sales and office occupations,44281,32316
+Massachusetts,New England,2017,Service occupations,28611,19181
+Michigan,East North Central,2017,"Management, business, science, and arts",70891,47066
+Michigan,East North Central,2017,"Natural resources, construction, and maintenance occupations",40643,24837
+Michigan,East North Central,2017,"Production, transportation, and material moving occupations",24837,25874
+Michigan,East North Central,2017,Sales and office occupations,36278,26237
+Michigan,East North Central,2017,Service occupations,20681,15229
+Minnesota,West North Central,2017,"Management, business, science, and arts",70983,50867
+Minnesota,West North Central,2017,"Natural resources, construction, and maintenance occupations",46085,27107
+Minnesota,West North Central,2017,"Production, transportation, and material moving occupations",27107,26626
+Minnesota,West North Central,2017,Sales and office occupations,41059,31290
+Minnesota,West North Central,2017,Service occupations,22335,17956
+Mississippi,East South Central,2017,"Management, business, science, and arts",59060,41132
+Mississippi,East South Central,2017,"Natural resources, construction, and maintenance occupations",35799,26522
+Mississippi,East South Central,2017,"Production, transportation, and material moving occupations",26522,22985
+Mississippi,East South Central,2017,Sales and office occupations,31997,23002
+Mississippi,East South Central,2017,Service occupations,21008,15774
+Missouri,West North Central,2017,"Management, business, science, and arts",61557,42792
+Missouri,West North Central,2017,"Natural resources, construction, and maintenance occupations",40086,26668
+Missouri,West North Central,2017,"Production, transportation, and material moving occupations",26668,25438
+Missouri,West North Central,2017,Sales and office occupations,35692,26508
+Missouri,West North Central,2017,Service occupations,22144,16184
+Montana,Mountain,2017,"Management, business, science, and arts",51368,40271
+Montana,Mountain,2017,"Natural resources, construction, and maintenance occupations",36265,26590
+Montana,Mountain,2017,"Production, transportation, and material moving occupations",26590,16650
+Montana,Mountain,2017,Sales and office occupations,32176,25473
+Montana,Mountain,2017,Service occupations,21673,16034
+Nebraska,West North Central,2017,"Management, business, science, and arts",60411,45507
+Nebraska,West North Central,2017,"Natural resources, construction, and maintenance occupations",39624,23381
+Nebraska,West North Central,2017,"Production, transportation, and material moving occupations",23381,26296
+Nebraska,West North Central,2017,Sales and office occupations,38274,26612
+Nebraska,West North Central,2017,Service occupations,21949,16469
+Nevada,Mountain,2017,"Management, business, science, and arts",64658,49977
+Nevada,Mountain,2017,"Natural resources, construction, and maintenance occupations",41181,32946
+Nevada,Mountain,2017,"Production, transportation, and material moving occupations",32946,23587
+Nevada,Mountain,2017,Sales and office occupations,32357,27664
+Nevada,Mountain,2017,Service occupations,29394,23362
+New Hampshire,New England,2017,"Management, business, science, and arts",78255,51636
+New Hampshire,New England,2017,"Natural resources, construction, and maintenance occupations",45557,17386
+New Hampshire,New England,2017,"Production, transportation, and material moving occupations",17386,26365
+New Hampshire,New England,2017,Sales and office occupations,39368,29686
+New Hampshire,New England,2017,Service occupations,22718,19001
+New Jersey,Mid-Atlantic,2017,"Management, business, science, and arts",86657,60785
+New Jersey,Mid-Atlantic,2017,"Natural resources, construction, and maintenance occupations",47935,31602
+New Jersey,Mid-Atlantic,2017,"Production, transportation, and material moving occupations",31602,21657
+New Jersey,Mid-Atlantic,2017,Sales and office occupations,45294,32047
+New Jersey,Mid-Atlantic,2017,Service occupations,27747,18954
+New Mexico,Mountain,2017,"Management, business, science, and arts",56053,43745
+New Mexico,Mountain,2017,"Natural resources, construction, and maintenance occupations",34158,33276
+New Mexico,Mountain,2017,"Production, transportation, and material moving occupations",33276,20554
+New Mexico,Mountain,2017,Sales and office occupations,28100,23862
+New Mexico,Mountain,2017,Service occupations,20119,14279
+New York,Mid-Atlantic,2017,"Management, business, science, and arts",75371,56534
+New York,Mid-Atlantic,2017,"Natural resources, construction, and maintenance occupations",40975,32341
+New York,Mid-Atlantic,2017,"Production, transportation, and material moving occupations",32341,25444
+New York,Mid-Atlantic,2017,Sales and office occupations,37902,30503
+New York,Mid-Atlantic,2017,Service occupations,29935,19555
+North Carolina,South Atlantic,2017,"Management, business, science, and arts",66118,45215
+North Carolina,South Atlantic,2017,"Natural resources, construction, and maintenance occupations",31679,24606
+North Carolina,South Atlantic,2017,"Production, transportation, and material moving occupations",24606,21824
+North Carolina,South Atlantic,2017,Sales and office occupations,36624,26794
+North Carolina,South Atlantic,2017,Service occupations,22359,16114
+North Dakota,West North Central,2017,"Management, business, science, and arts",61581,45107
+North Dakota,West North Central,2017,"Natural resources, construction, and maintenance occupations",45915,28766
+North Dakota,West North Central,2017,"Production, transportation, and material moving occupations",28766,23686
+North Dakota,West North Central,2017,Sales and office occupations,40167,31098
+North Dakota,West North Central,2017,Service occupations,23372,18966
+Ohio,East North Central,2017,"Management, business, science, and arts",65865,46191
+Ohio,East North Central,2017,"Natural resources, construction, and maintenance occupations",41348,26801
+Ohio,East North Central,2017,"Production, transportation, and material moving occupations",26801,25112
+Ohio,East North Central,2017,Sales and office occupations,36642,26726
+Ohio,East North Central,2017,Service occupations,21778,15589
+Oklahoma,West South Central,2017,"Management, business, science, and arts",59492,40382
+Oklahoma,West South Central,2017,"Natural resources, construction, and maintenance occupations",36465,25439
+Oklahoma,West South Central,2017,"Production, transportation, and material moving occupations",25439,22173
+Oklahoma,West South Central,2017,Sales and office occupations,33152,25115
+Oklahoma,West South Central,2017,Service occupations,20657,15863
+Oregon,Pacific,2017,"Management, business, science, and arts",66841,48433
+Oregon,Pacific,2017,"Natural resources, construction, and maintenance occupations",37103,17024
+Oregon,Pacific,2017,"Production, transportation, and material moving occupations",17024,23823
+Oregon,Pacific,2017,Sales and office occupations,35630,28434
+Oregon,Pacific,2017,Service occupations,23336,17433
+Pennsylvania,Mid-Atlantic,2017,"Management, business, science, and arts",70288,50164
+Pennsylvania,Mid-Atlantic,2017,"Natural resources, construction, and maintenance occupations",42143,25636
+Pennsylvania,Mid-Atlantic,2017,"Production, transportation, and material moving occupations",25636,24198
+Pennsylvania,Mid-Atlantic,2017,Sales and office occupations,37492,28296
+Pennsylvania,Mid-Atlantic,2017,Service occupations,22978,16778
+Rhode Island,New England,2017,"Management, business, science, and arts",70923,55752
+Rhode Island,New England,2017,"Natural resources, construction, and maintenance occupations",43870,41961
+Rhode Island,New England,2017,"Production, transportation, and material moving occupations",41961,20538
+Rhode Island,New England,2017,Sales and office occupations,40930,30988
+Rhode Island,New England,2017,Service occupations,26623,17907
+South Carolina,South Atlantic,2017,"Management, business, science, and arts",65613,41857
+South Carolina,South Atlantic,2017,"Natural resources, construction, and maintenance occupations",31991,26485
+South Carolina,South Atlantic,2017,"Production, transportation, and material moving occupations",26485,24376
+South Carolina,South Atlantic,2017,Sales and office occupations,36809,24493
+South Carolina,South Atlantic,2017,Service occupations,20464,15792
+South Dakota,West North Central,2017,"Management, business, science, and arts",59268,41583
+South Dakota,West North Central,2017,"Natural resources, construction, and maintenance occupations",40007,30788
+South Dakota,West North Central,2017,"Production, transportation, and material moving occupations",30788,25135
+South Dakota,West North Central,2017,Sales and office occupations,36233,26044
+South Dakota,West North Central,2017,Service occupations,22175,15909
+Tennessee,East South Central,2017,"Management, business, science, and arts",60993,43859
+Tennessee,East South Central,2017,"Natural resources, construction, and maintenance occupations",34625,24996
+Tennessee,East South Central,2017,"Production, transportation, and material moving occupations",24996,25028
+Tennessee,East South Central,2017,Sales and office occupations,34366,26387
+Tennessee,East South Central,2017,Service occupations,22428,16055
+Texas,West South Central,2017,"Management, business, science, and arts",70890,50150
+Texas,West South Central,2017,"Natural resources, construction, and maintenance occupations",34813,22049
+Texas,West South Central,2017,"Production, transportation, and material moving occupations",22049,22237
+Texas,West South Central,2017,Sales and office occupations,35575,26534
+Texas,West South Central,2017,Service occupations,22392,16098
+Utah,Mountain,2017,"Management, business, science, and arts",67149,37301
+Utah,Mountain,2017,"Natural resources, construction, and maintenance occupations",38719,26784
+Utah,Mountain,2017,"Production, transportation, and material moving occupations",26784,23324
+Utah,Mountain,2017,Sales and office occupations,35304,24173
+Utah,Mountain,2017,Service occupations,21245,13692
+Vermont,New England,2017,"Management, business, science, and arts",56438,45742
+Vermont,New England,2017,"Natural resources, construction, and maintenance occupations",35548,16379
+Vermont,New England,2017,"Production, transportation, and material moving occupations",16379,23395
+Vermont,New England,2017,Sales and office occupations,36818,27013
+Vermont,New England,2017,Service occupations,22445,15782
+Virginia,South Atlantic,2017,"Management, business, science, and arts",81616,52808
+Virginia,South Atlantic,2017,"Natural resources, construction, and maintenance occupations",38546,25735
+Virginia,South Atlantic,2017,"Production, transportation, and material moving occupations",25735,23472
+Virginia,South Atlantic,2017,Sales and office occupations,40256,27534
+Virginia,South Atlantic,2017,Service occupations,26003,17409
+Washington,Pacific,2017,"Management, business, science, and arts",80258,53757
+Washington,Pacific,2017,"Natural resources, construction, and maintenance occupations",45291,21305
+Washington,Pacific,2017,"Production, transportation, and material moving occupations",21305,24612
+Washington,Pacific,2017,"Sales and office occupations",41827,30883
+Washington,Pacific,2017,"Service occupations",25305,20144
+West Virginia,South Atlantic,2017,"Management, business, science, and arts",54441,41319
+West Virginia,South Atlantic,2017,"Natural resources, construction, and maintenance occupations",43958,40893
+West Virginia,South Atlantic,2017,"Production, transportation, and material moving occupations",40893,25647
+West Virginia,South Atlantic,2017,Sales and office occupations,30935,23075
+West Virginia,South Atlantic,2017,Service occupations,21504,15892
+Wisconsin,East North Central,2017,"Management, business, science, and arts",65172,47024
+Wisconsin,East North Central,2017,"Natural resources, construction, and maintenance occupations",42372,26561
+Wisconsin,East North Central,2017,"Production, transportation, and material moving occupations",26561,26046
+Wisconsin,East North Central,2017,Sales and office occupations,39428,28699
+Wisconsin,East North Central,2017,Service occupations,22236,16007
+Wyoming,Mountain,2017,"Management, business, science, and arts",57086,45711
+Wyoming,Mountain,2017,"Natural resources, construction, and maintenance occupations",46404,24978
+Wyoming,Mountain,2017,"Production, transportation, and material moving occupations",24978,21340
+Wyoming,Mountain,2017,Sales and office occupations,33079,28635
+Wyoming,Mountain,2017,Service occupations,24819,15376

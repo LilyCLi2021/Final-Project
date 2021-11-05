@@ -1,0 +1,167 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 10px;
+  padding: 10px;
+  background-color: black;
+}
+
+h3{
+  font-family: sans-serif;
+  color: aliceblue;
+  margin: 30px;
+}
+
+p{
+  text-align: center;
+  color: aliceblue;
+ 
+}
+
+#p2{
+  font-size: 12px;
+  font-style: italic;
+}
+
+#container{
+  display: flex;
+  flex-wrap: nonwrap;
+  flex-grow: 4;
+}
+
+#job {
+  text-align: center;
+  margin: 20px;
+  
+}
+
+#region {
+  text-align: center;
+  margin: 20px;
+  
+}
+
+p{
+  font-family: 'Courier New', Courier, monospace;
+  color: aliceblue;
+  flex-basis: 100%;
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  background-color: rgba(198, 198, 198, 0.479); 
+  border: none;
+  color: aliceblue;
+  padding: 3px 15px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+
+}
+
+select{
+  background-color:  rgba(239, 239, 239, 0.941); 
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(0, 0, 0);
+}
+
+#region{
+  display: flex;
+  flex-wrap: nonwrap;
+  justify-content: center;
+}
+
+div p{
+  font-size: 12px;
+}
+
+#ne{
+  color: rgba(205, 162, 242, 0.818);
+}
+
+#sa{
+  color: rgb(150, 88, 47);
+}
+
+#pa{
+  color: rgb(247, 122, 39);
+}
+
+#ma{
+  color: rgb(189, 228, 74);
+}
+
+#enc{
+  color: rgb(240, 131, 214);
+}
+
+#wsc{
+  color: rgb(242, 96, 96);
+}
+
+#wnc{
+  color: rgb(188, 186, 186);
+}
+
+#esc{
+  color: rgb(96, 191, 242);
+}
+
+#mo{
+  color: rgb(51, 202, 34);
+}
+
+/*
+button:focus{
+  background: rgba(221, 220, 220, 0.479);
+  border: none;
+  color: white;
+  padding: 2px 8px;
+  font-family: 'Courier',Courier New, monospace;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+
+}
+*/
+
+#chart {
+  padding: 30px;
+  width: 90vh;
+  height: 85vh;
+}
+
+.axisLabel {
+  font-family: 'Courier New', Courier, monospace;
+  fill:aliceblue;
+  font-size: 11pt;
+  font-weight: regular;
+  
+
+}
+
+.axis {
+  font-size: 10pt;
+  color: aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.tooltip {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: regular;
+  color:white;
+  font-size: 10pt;
+  background-color:rgba(207, 207, 209, 0.4);
+  padding: 5px;
+  pointer-events: none;
+}

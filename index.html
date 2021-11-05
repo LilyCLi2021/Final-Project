@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="./style/style.css">
+    <script src="lib/d3.js"></script>
+</head>
+
+<body>
+    <h3 align="center">Income Comparison Within the States Between the 5 Most Common Occupations in 2017</h3>
+
+    <p>Different occupations have different income rates. <br> As a diverse country, income rates also affect by
+        locations. <br> This graph allows you to compare the income rates of the 50 states within the United States
+        <br> between the 5 most common occupations in 2017. </p>
+
+
+    <div id="container">
+
+        <div id="chart"></div>
+
+        <div id=clicks>
+
+
+            <div id="job">
+
+                <p id=p2>Please click on the button below to explore more.</p>
+
+                <button id="mgt">Management, business, science, and arts occupations</button><br>
+                <select id="selectButton"></select>
+                <button id="prod">Production, transportation, and material moving occupations</button><br>
+                <button id="nat">Natural resources, construction, and maintenance occupations</button><br>
+                <button id="sales">Sales and office occupations</button><br>
+                <button id="serv">Service occupations</button><br>
+
+
+            </div>
+
+            <p id=p2>Please click on the button below to explore the three chosen sub regions<br>
+                (I chose 1 'Management, business, science, and arts' <br>and 2 'Service'  as denmenstration.) </p>
+            
+            <div id="region">
+
+                
+                
+                <div id = demo1>
+
+                    <p id = ne>New Englend</p>
+                    <button id="ne1">1</button>
+                    <button id="ne2">2</button>
+
+                    <p id = ma>Mid-Atlantic</p>
+
+                    <p id = enc>East North Central</p>
+
+                </div>
+
+                <div id = demo2>
+                    
+                    <p id = sa>South Atlantic</p>
+                    <button id="sa1">1</button> 
+                    <button id="sa2">2</button>
+
+                    <p id = esc>East South Central</p>
+
+                    <p id = wsc>West South Central</p>
+
+
+                </div>
+
+                <div id = demo3>
+
+                    <p id = pa>Pacific</p>
+                    <button id="pa1">1</button> 
+                    <button id="pa2">2</button>
+
+                    <p id = mo>Mountain</p>
+
+                    <p id = wnc>West North Central</p>
+
+                    
+
+                </div>
+                
+                
+
+
+            </div>
+
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+
+
+
+</body>
+
+</html>
